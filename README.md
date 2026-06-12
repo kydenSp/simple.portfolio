@@ -18,16 +18,16 @@ A modern, high-impact data analyst portfolio designed for **KYDEN KK**. This sin
 - **Pink**: Lavender blush background with light pink accents. Icon: 🐻.
 
 ## 📂 Project Structure
-- `index.html`: Main site structure.
-- `style.css`: Comprehensive styling and theme definitions.
-- `script.js`: Theme toggle logic.
+- `docs/index.html`: Main site structure.
+- `docs/style.css`: Comprehensive styling and theme definitions.
+- `docs/script.js`: Theme toggle logic.
 - `plan/`: Original project design and planning documents.
 
 ## 🌐 Deployment
-This portfolio is ready for hosting on **GitHub Pages**. 
+This portfolio is hosted on **GitHub Pages**. 
 1. Push the code to a GitHub repository.
 2. Go to **Settings > Pages**.
-3. Select the `main` branch and `/root` folder.
+3. Select the `main` branch and the `/docs` folder.
 4. Your site will be live at `https://<username>.github.io/<repo-name>/`.
 
 ---
